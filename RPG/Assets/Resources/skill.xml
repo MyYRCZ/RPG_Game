@@ -1,0 +1,8 @@
+
+<root>
+	<Skill ID="1001" Name="火球术" cooldowntime="0" skillfaraway="20" SkillMode="damage" CastMode="dutiao" casttime="3" usedmp="5" path="skillpic/1001" skillfrom="magic" percent="1.2"/>
+    <Skill ID="1002" Name="寒冰箭" cooldowntime="5" skillfaraway="20" SkillMode="damage" CastMode="dutiao" casttime="3" usedmp="5" path="skillpic/1002" skillfrom="magic" percent="1.0"/>
+    <Skill ID="1003" Name="砍击" cooldowntime="0" skillfaraway="4" SkillMode="damage" CastMode="shunfa" casttime="3" usedmp="5" path="skillpic/1003" skillfrom="attack" percent="1.5"/>
+    <Skill ID="1004" Name="恢复" cooldowntime="5" skillfaraway="0" SkillMode="health" CastMode="dutiao" casttime="3" usedmp="5" path="skillpic/1004" skillfrom="magic" percent="1.0"/>
+	<Skill ID="1005" Name="狂暴" cooldowntime="5" skillfaraway="0" SkillMode="buff" CastMode="shunfa" casttime="3" usedmp="0" path="skillpic/1005" skillfrom="magic" percent="1.2"/>
+</root>

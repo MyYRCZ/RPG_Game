@@ -1,0 +1,8 @@
+
+<root>
+	<Buff ID="5001" Name="灼烧" info="每秒造成伤害,持续4秒" time="4" path="buffpic/5001"/>
+	<Buff ID="5002" Name="冰冻" info="移动速度减缓,持续5秒" time="5" path="buffpic/5002"/>
+	<Buff ID="5003" Name="狂暴" info="伤害提高,持续10秒" time="10" path="buffpic/5003"/>
+	<Buff ID="5004" Name="恢复" info="生命值恢复,持续5秒" time="5" path="buffpic/5004"/>
+	<Buff ID="5005" Name="咆哮" info="生命值翻倍" time="0" path="buffpic/5005"/>
+</root>

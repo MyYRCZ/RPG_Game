@@ -1,0 +1,104 @@
+Initialize engine version: 5.4.6f3 (7c5210d1343f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Administrator\Desktop\中关村游戏学院_G0501710-CX81006_李泽强_freedom\src\freedom\freedom_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\中关村游戏学院_G0501710-CX81006_李泽强_freedom\src\freedom\freedom_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\中关村游戏学院_G0501710-CX81006_李泽强_freedom\src\freedom\freedom_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\中关村游戏学院_G0501710-CX81006_李泽强_freedom\src\freedom\freedom_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\中关村游戏学院_G0501710-CX81006_李泽强_freedom\src\freedom\freedom_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\中关村游戏学院_G0501710-CX81006_李泽强_freedom\src\freedom\freedom_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\中关村游戏学院_G0501710-CX81006_李泽强_freedom\src\freedom\freedom_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\中关村游戏学院_G0501710-CX81006_李泽强_freedom\src\freedom\freedom_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+Platform assembly: C:\Users\Administrator\Desktop\中关村游戏学院_G0501710-CX81006_李泽强_freedom\src\freedom\freedom_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Administrator\Desktop\中关村游戏学院_G0501710-CX81006_李泽强_freedom\src\freedom\freedom_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.050588 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4cd0 -> priority: 1 
+  Thread -> id: 4d64 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.970898 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 293.
+Total: 2.515008 ms (FindLiveObjects: 0.024632 ms CreateObjectMapping: 0.018474 ms MarkObjects: 0.180640 ms  DeleteObjects: 2.284281 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.509898 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1128.
+Total: 0.552595 ms (FindLiveObjects: 0.075951 ms CreateObjectMapping: 0.018885 ms MarkObjects: 0.447906 ms  DeleteObjects: 0.009853 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.464009 ms
+
+Unloading 200 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 0.572712 ms (FindLiveObjects: 0.032433 ms CreateObjectMapping: 0.016832 ms MarkObjects: 0.183103 ms  DeleteObjects: 0.339522 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+The tree Tree_01 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree Tree_01 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree Tent1_trunk must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree Tree_Dead2 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree Tree_Dead2 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree Tree_Dead3 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree Tree_Pine_2 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree Tree_Pine_2 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree Tree_Pine_5 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree Tree_Pine_5 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree Tree_small_05 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree Tree_small_05 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+UnloadTime: 1.325244 ms
+Platform assembly: C:\Users\Administrator\Desktop\中关村游戏学院_G0501710-CX81006_李泽强_freedom\src\freedom\freedom_Data\Managed\System.Xml.dll (this message is harmless)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 5132.
+Total: 3.154229 ms (FindLiveObjects: 0.249201 ms CreateObjectMapping: 0.056655 ms MarkObjects: 2.335189 ms  DeleteObjects: 0.512362 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
